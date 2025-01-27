@@ -38,7 +38,7 @@ if (!localStorage.topScore) {
 let topScore = () => {
   return localStorage.topScore;
 };
-
+// tes
 let score = 0;
 
 // Configuration
